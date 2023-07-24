@@ -1,4 +1,5 @@
 <?php
+namesapce Database\Seeders;
 
 use Illuminate\Database\Seeder;
 
